@@ -1,10 +1,11 @@
 
-
 <h1 align="center">Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Alia AbuAmireh</h1>
+
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Profile!&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Profile!+&center=true&size=20">
   </a> 
 </h1>
 
@@ -24,13 +25,10 @@
 - ⚡ Fun fact:
 
 <br> 
-<h3 >💻 Languages and Tools: 🛠️</h3>
+<h3> <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px>  Languages and Tools :  </h3>
 
-<p>
-  <code><img title="C" height="25" src="https://img.shields.io/badge/-C-black?logo=c&style=social"></code>
-  <code><img title="Java" height="25" src="https://img.shields.io/badge/-Java-black?logo=java&style=social"></code>
-</p>
-
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 <br> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=AliaAbuAmireh&&show_icons=true&title_color=C37B89&icon_color=FFCCD2&text_color=daf7dc&bg_color=152D35">
