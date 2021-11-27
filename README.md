@@ -16,7 +16,7 @@
 ### [![GitHub Alia](https://img.shields.io/github/followers/AliaAbuAmireh?label=follow&style=social)](https://github.com/AliaAbuAmireh)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=AliaAbuAmireh">
 
-### Here's a little about me :
+### :octocat: Here's a little about me :
  - 🔭 I’m currently studying at HTU
 - 👀 I'm interested in Programming
 - 🌱 I’m currently learning Java & Algorithms
