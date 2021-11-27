@@ -6,7 +6,11 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Profile!&center=true&size=20">
   </a>
+  
+<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" width="390"><img src="https://github-readme-stats.vercel.app/api?username=AliaAbuAmireh&&show_icons=true&title_color=C37B89&icon_color=FFCCD2&text_color=daf7dc&bg_color=152D35">
+  
 </h1>
+
 
 ### [![GitHub Alia](https://img.shields.io/github/followers/AliaAbuAmireh?label=follow&style=social)](https://github.com/AliaAbuAmireh)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=AliaAbuAmireh">
@@ -19,7 +23,6 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact:
 
-<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" width="390"><img src="https://github-readme-stats.vercel.app/api?username=AliaAbuAmireh&&show_icons=true&title_color=C37B89&icon_color=FFCCD2&text_color=daf7dc&bg_color=152D35">
 
  
 
