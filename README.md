@@ -5,11 +5,11 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Profile!&center=true&size=20">
-  </a>
-  
-<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" width="390"><img src="https://github-readme-stats.vercel.app/api?username=AliaAbuAmireh&&show_icons=true&title_color=C37B89&icon_color=FFCCD2&text_color=daf7dc&bg_color=152D35">
-  
+  </a> 
 </h1>
+
+
+<img align="right" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" width="390">
 
 
 ### [![GitHub Alia](https://img.shields.io/github/followers/AliaAbuAmireh?label=follow&style=social)](https://github.com/AliaAbuAmireh)
@@ -23,22 +23,26 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact:
 
-
- 
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
 <br> 
-<h2 align="center">💻 Languages and Tools: 🛠️</h2>
+<h3 >💻 Languages and Tools: 🛠️</h3>
 
-<p align="center">
+<p>
   <code><img title="C" height="25" src="https://img.shields.io/badge/-C-black?logo=c&style=social"></code>
   <code><img title="Java" height="25" src="https://img.shields.io/badge/-Java-black?logo=java&style=social"></code>
 </p>
+
+<br> 
+
+<img src="https://github-readme-stats.vercel.app/api?username=AliaAbuAmireh&&show_icons=true&title_color=C37B89&icon_color=FFCCD2&text_color=daf7dc&bg_color=152D35">
+
+
+
 ---
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Alia's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=AliaAbuAmireh&bg_color=152D35&color=C37B89&line=FFCCD2&point=FFCCD2&hide_border=true" /></a>
 
 ---
-AliaAbuAmireh
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
 
