@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning Java & Algorithms
 - 📫 How to reach me: [Instgram - @2asiu](https://www.instagram.com/2asiu/) 
 - 😄 Pronouns: She/her
-- ⚡ Fun fact:
+- 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 
 <br> 
 <h3> <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px>  Languages and Tools :  </h3>
@@ -31,7 +31,7 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 <br> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=AliaAbuAmireh&&show_icons=true&title_color=C37B89&icon_color=FFCCD2&text_color=daf7dc&bg_color=152D35">
+<img src="https://github-readme-stats.vercel.app/api?username=AliaAbuAmireh&&show_icons=true&title_color=C37B89&icon_color=FFCCD2&text_color=daf7dc&bg_color=152D35"> <img src="https://cdn.dribbble.com/users/355439/screenshots/1636997/media/45273763131232b8d5c3b239a4be8129.gif" width="250" height="193">
 
 
 
